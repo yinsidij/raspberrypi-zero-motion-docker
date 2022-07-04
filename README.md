@@ -8,6 +8,12 @@ This repo aims to provide a way to containerize `motion` (https://motion-project
 ## Build
 sudo docker build . -t pi-zero-motion-image
 
+```
+pi@raspberrypi:~/raspberrypi-zero-motion-docker $ sudo docker image ls
+REPOSITORY                 TAG       IMAGE ID       CREATED          SIZE
+pi-zero-motion-image       latest    785f5fde68b8   15 seconds ago   527MB
+```
+
 ## run
 sudo ./run.sh
 
