@@ -2,8 +2,9 @@
 
 ## Intro
 This repo aims to provide a way to containerize `motion` (https://motion-project.github.io/) in raspberry pi zero, including
-- raspberry pi zero
-- raspberry pi zero W
+- Raspberry Pi Zero
+- Raspberry Pi Zero W
+- Raspberry Pi Zero 2 W (To be tested)
 
 ## Build
 sudo docker build . -t pi-zero-motion-image
