@@ -14,7 +14,7 @@ REPOSITORY                 TAG       IMAGE ID       CREATED          SIZE
 pi-zero-motion-image       latest    785f5fde68b8   15 seconds ago   527MB
 ```
 
-## run
+## Run
 sudo ./run.sh
 
 ## Context
